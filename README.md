@@ -22,3 +22,6 @@ The library provides optical character recognition (OCR) support for:
 ## Contributors
 
 A big thanks to GitHub and all of Tess4J's contributors.
+
+
+jyk 20170503 upload
